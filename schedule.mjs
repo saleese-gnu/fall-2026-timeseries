@@ -64,7 +64,7 @@ const scheduleDirective = {
     // ## Week 1
     // Aug 24 [Lecture 1]     PDF Document        (note)
     //        [Exercise 1.1]  PDF Document
-    const weeks = yaml.load(fs.readFileSync(data.arg).toString());
+    const weeks = yaml.load(fs.readFileSync(new URL(data.arg, import.meta.url)).toString());
     const children = weeks.map(({ week, days }) => {
       const renderedDays = days
         .map((day) => {

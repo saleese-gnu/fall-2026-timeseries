@@ -23,49 +23,49 @@ project:
   plugins:
     - schedule.mjs
   toc:
-    - file: index.md
+    - file: Markdown/index.md
     - title: Week 2
       children:
-      - file: CodeLabOne153248Fall2026.ipynb
-      - file: CodeLectureTwo153248Fall2026.ipynb
+      - file: Notebooks/CodeLabOne153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureTwo153248Fall2026.ipynb
     - title: Week 3
       children:
-      - file: CodeLabTwo153248Fall2026.ipynb
-      - file: CodeLectureFour153248Fall2026.ipynb
-      - file: CodeLectureFive153248Fall2026.ipynb
+      - file: Notebooks/CodeLabTwo153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureFour153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureFive153248Fall2026.ipynb
     - title: Week 4
       children:
-      - file: CodeLabThree153248Fall2026.ipynb
-      - file: CodeLectureSix153248Fall2026.ipynb      
-      - file: CodeLectureSeven153248Fall2026.ipynb
+      - file: Notebooks/CodeLabThree153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureSix153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureSeven153248Fall2026.ipynb
     - title: Week 5
       children:
-      - file: CodeLabFour153248Fall2026.ipynb
-      - file: CodeLectureEight153248Fall2026.ipynb            
-      - file: CodeLectureNine153248Fall2026.ipynb
+      - file: Notebooks/CodeLabFour153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureEight153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureNine153248Fall2026.ipynb
     - title: Week 6
       children:
-      - file: CodeLabFive153248Fall2026.ipynb
-      - file: CodeLectureTen153248Fall2026.ipynb            
-      - file: CodeLectureEleven153248Fall2026.ipynb
+      - file: Notebooks/CodeLabFive153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureTen153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureEleven153248Fall2026.ipynb
     - title: Week 7
       children:
-      - file: CodeLabSix153248Fall2026.ipynb
-      - file: CodeLectureTwelve153248Fall2026.ipynb            
-      - file: CodeLectureThirteen153248Fall2026.ipynb            
+      - file: Notebooks/CodeLabSix153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureTwelve153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureThirteen153248Fall2026.ipynb
     - title: Week 8
       children:
-      - file: CodeLabSeven153248Fall2026.ipynb
-      - file: CodeLectureFourteen153248Fall2026.ipynb            
-      - file: CodeLectureFifteen153248Fall2026.ipynb            
+      - file: Notebooks/CodeLabSeven153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureFourteen153248Fall2026.ipynb
+      - file: Notebooks/CodeLectureFifteen153248Fall2026.ipynb
     - title: Week 9
       children:
-      - file: CodeLectureSixteen153248Fall2026.ipynb            
+      - file: Notebooks/CodeLectureSixteen153248Fall2026.ipynb
 site:
   template: book-theme
   title: 'Stat 153'
   options:
-    logo: 'stat_bear.png'
+    logo: 'Images/stat_bear.png'
   nav: []
   actions:
     - title: Ed

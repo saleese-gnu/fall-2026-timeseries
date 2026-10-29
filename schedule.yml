@@ -5,7 +5,7 @@
         - type: "Lecture"
           id: "1"
           name: Slides--Introduction and Overview
-          href: "./LectureOneSlides153248Fall2026PDF.pdf"
+          href: "../PDF/Lecture001Slides153248Fall2026.pdf"
 - week: 2
   days:
     - date: "Sept 01"
@@ -13,35 +13,35 @@
         - type: "Lab"
           id: "1"
           name: Notes--Linear Regression for Time Series
-          href: "./CodeLabOne153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabOne153248Fall2026.ipynb"
     - date: "Sept 01"
       items:
         - type: "Lecture"
           id: "2 Notes"
           name: Notes--Linear Regression for Time Series
-          href: "./LectureTwo153248Fall2026.pdf"
+          href: "../PDF/Lecture002Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "2 Code"
           name: Notebook--Linear Regression Models fit to the US population data
-          href: "./CodeLectureTwo153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureTwo153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: US Census Bureau 2023 Population Projections
-          href: "./US Census Bureau 2023 population projections.xlsx"
+          href: "../Excel/US Census Bureau 2023 population projections.xlsx"
         - type: 'Dataset'
           id: '2'
           name: UN 2024 Population Projections
-          href: "./UN 2024 population projections.xlsx"	  
+          href: "../Excel/UN 2024 population projections.xlsx"
     - date: 'Sept 03'
       items:
         - type: 'Lecture'
           id: '3 Notes'
           name: Notes--Simple Bayesian Inference Examples
-          href: "./LectureThree153248Fall2026.pdf"
+          href: "../PDF/Lecture003Slides153248Fall2026.pdf"
         - type: 'Lecture'
           id: '3 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureThree153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureThree153248Fall2026.pdf"
 - week: 3
   days:
     - date: "Sept 08"
@@ -49,47 +49,47 @@
         - type: "Lab"
           id: "2"
           name: Notes--Linear Regression Details
-          href: "./CodeLabTwo153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabTwo153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: GDP data from FRED
-          href: "./GDP-Jan2025FRED.csv"
+          href: "../CSV/GDP-Jan2025FRED.csv"
     - date: "Sept 08"
       items:
         - type: "Lecture"
           id: "4 Notes"
           name: Notes--Multiple Linear Regression
-          href: "./LectureFour153248Fall2026.pdf"
+          href: "../PDF/Lecture004Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "4 Code"
           name: Notebook--Multiple Linear Regression
-          href: "./CodeLectureFour153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureFour153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: US Accidental Deaths
-          href: "./USAccDeaths.csv"
+          href: "../CSV/USAccDeaths.csv"
         - type: 'Dataset'
           id: '2'
-          name: FRED retail alcohol sales data 
-          href: "./MRTSSM4453USN_October2025.xlsx"	  
+          name: FRED retail alcohol sales data
+          href: "../CSV/MRTSSM4453USN_October2025.csv"
         - type: 'Lecture'
           id: '4 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureFour153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureFour153248Fall2026.pdf"
     - date: "Sept 10"
       items:
         - type: "Lecture"
           id: "5 Notes"
           name: Notes--Bayesian Inference for Multiple Linear Regression
-          href: "./LectureFive153248Fall2026.pdf"
+          href: "../PDF/Lecture005Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "5 Code"
           name: Notebook--Linear Regression and Uncertainty Quantification
-          href: "./CodeLectureFive153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureFive153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '5 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureFive153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureFive153248Fall2026.pdf"
 - week: 4
   days:
     - date: "Sept 15"
@@ -97,55 +97,55 @@
         - type: "Lab"
           id: "3"
           name: Notes--From linear regression to Nonlinear regression
-          href: "./CodeLabThree153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabThree153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: US Corn Yield data
-          href: "./USCornYield_1866_1955.csv"
+          href: "../CSV/USCornYield_1866_1955.csv"
         - type: 'Dataset'
           id: '2'
           name: Weight Loss data
-          href: "./WeightLoss_0_246days.csv"
+          href: "../CSV/WeightLoss_0_246days.csv"
     - date: "Sept 15"
       items:
         - type: "Lecture"
           id: "6 Notes"
           name: Notes--NonLinear Regression
-          href: "./LectureSix153248Fall2026.pdf"
+          href: "../PDF/Lecture006Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "6 Code"
           name: Notebook--NonLinear Regression
-          href: "./CodeLectureSix153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureSix153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: CA population data from FRED
-          href: "./CAPOP_11Sept2025.csv"
+          href: "../CSV/CAPOP_11Sept2025.csv"
         - type: 'Lecture'
           id: '6 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureSix153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureSix153248Fall2026.pdf"
     - date: "Sept 17"
       items:
         - type: "Lecture"
           id: "7 Notes"
           name: Notes--Sinusoidal Model
-          href: "./LectureSeven153248Fall2026.pdf"
+          href: "../PDF/Lecture007Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "7 Code"
           name: Notebook--Sinusoidal Model
-          href: "./CodeLectureSeven153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureSeven153248Fall2026.ipynb"
         - type: 'Dataset'
           id: '1'
           name: Annual Sunspots Data
-          href: "./SN_y_tot_V2.0_17Sept2026.csv"
+          href: "../CSV/SN_y_tot_V2.0_17Sept2026.csv"
         - type: 'Dataset'
           id: '2'
           name: Audio Middle C file
-          href: "./Hear Piano Note - Middle C.mp3"
+          href: "../Audio/Hear Piano Note - Middle C.mp3"
         - type: 'Lecture'
           id: '7 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureSeven153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureSeven153248Fall2026.pdf"
 - week: 5
   days:
     - date: "Sept 22"
@@ -153,35 +153,35 @@
         - type: "Lab"
           id: "4"
           name: Notes--Inference in sinusoid models
-          href: "./CodeLabFour153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabFour153248Fall2026.ipynb"
     - date: "Sept 22"
       items:
         - type: "Lecture"
           id: "8 Notes"
           name: Notes--DFT, Periodogram and RSS
-          href: "./LectureEight153248Fall2026.pdf"
+          href: "../PDF/Lecture008Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "8 Code"
           name: Notebook--DFT, Periodogram and RSS
-          href: "./CodeLectureEight153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureEight153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '8 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureEight153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureEight153248Fall2026.pdf"
     - date: "Sept 24"
       items:
         - type: "Lecture"
           id: "9 Notes"
           name: Notes--Models with multiple sinusoids
-          href: "./LectureNine153248Fall2026.pdf"
+          href: "../PDF/Lecture009Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "9 Code"
           name: Notebook--More on sinusoidal models
-          href: "./CodeLectureNine153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureNine153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '9 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureNine153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureNine153248Fall2026.pdf"
 - week: 6
   days:
     - date: "Sept 29"
@@ -189,51 +189,51 @@
         - type: "Lab"
           id: "5"
           name: Notes--Change-point Models
-          href: "./CodeLabFive153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabFive153248Fall2026.ipynb"
     - date: "Sept 29"
       items:
         - type: "Lecture"
           id: "10 Notes"
           name: Notes--Change of slope models with more parameters
-          href: "./LectureTen153248Fall2026.pdf"
+          href: "../PDF/Lecture010Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "10 Code"
           name: Notebook--Change of slope models with more parameters
-          href: "./CodeLectureTen153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureTen153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '10 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureTen153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureTen153248Fall2026.pdf"
     - date: "Oct 01"
       items:
         - type: "Lecture"
           id: "11 Notes"
           name: Notes--High-dimensional linear regression with ridge and LASSO regularization
-          href: "./LectureEleven153248Fall2026.pdf"
+          href: "../PDF/Lecture011Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "11 Code"
           name: Notebook--High-dimensional linear regression with ridge and LASSO regularization
-          href: "./CodeLectureEleven153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureEleven153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '11 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureEleven153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureEleven153248Fall2026.pdf"
         - type: 'Dataset'
           id: '1'
           name: CA average monthly temperatures
-          href: "./cag_CA_tavg.csv"
+          href: "../CSV/cag_CA_tavg.csv"
         - type: 'Dataset'
           id: '2'
           name: AL average monthly temperatures
-          href: "./cag_AL_tavg.csv"
+          href: "../CSV/cag_AL_tavg.csv"
         - type: 'Dataset'
           id: '3'
           name: CA maximum daily temperatures
-          href: "./cag_CA_tmax.csv"
+          href: "../CSV/cag_CA_tmax.csv"
         - type: 'Dataset'
           id: '4'
           name: CA minimum daily temperatures
-          href: "./cag_CA_tmin.csv"
+          href: "../CSV/cag_CA_tmin.csv"
 - week: 7
   days:
     - date: "Oct 06"
@@ -241,35 +241,35 @@
         - type: "Lab"
           id: "6"
           name: Notes--High-dimensional regression with change points
-          href: "./CodeLabSix153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabSix153248Fall2026.ipynb"
     - date: "Oct 06"
       items:
         - type: "Lecture"
           id: "12 Notes"
           name: Notes--Ridge regularization from the Bayesian perspective
-          href: "./LectureTwelve153248Fall2026.pdf"
+          href: "../PDF/Lecture012Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "12 Code"
           name: Notebook--Ridge regularization from the Bayesian perspective
-          href: "./CodeLectureTwelve153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureTwelve153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '12 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureTwelve153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureTwelve153248Fall2026.pdf"
     - date: "Oct 08"
       items:
         - type: "Lecture"
           id: "13 Notes"
           name: Notes--Bayesian Ridge regularization
-          href: "./LectureThirteen153248Fall2026.pdf"
+          href: "../PDF/Lecture013Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "13 Code"
           name: Notebook--Bayesian Ridge regularization
-          href: "./CodeLectureThirteen153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureThirteen153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '13 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureThirteen153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureThirteen153248Fall2026.pdf"
 - week: 8
   days:
     - date: "Oct 13"
@@ -277,35 +277,35 @@
         - type: "Lab"
           id: "7"
           name: Notes--Cross-Validation vs Bayesian Regularization for Ridge Regression
-          href: "./CodeLabSeven153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLabSeven153248Fall2026.ipynb"
     - date: "Oct 13"
       items:
         - type: "Lecture"
           id: "14 Notes"
           name: Notes--Spectrum Model
-          href: "./LectureFourteen153248Fall2026.pdf"
+          href: "../PDF/Lecture014Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "14 Code"
           name: Notebook--Variance Models and the Spectrum Model
-          href: "./CodeLectureFourteen153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureFourteen153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '14 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureFourteen153248Fall2026.pdf"	  
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureFourteen153248Fall2026.pdf"
     - date: "Oct 15"
       items:
         - type: "Lecture"
           id: "15 Notes"
           name: Notes--Smoothing the periodogram
-          href: "./LectureFifteen153248Fall2026.pdf"
+          href: "../PDF/Lecture015Slides153248Fall2026.pdf"
         - type: "Lecture"
           id: "15 Code"
           name: Notebook--Smoothing the periodogram
-          href: "./CodeLectureFifteen153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureFifteen153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '15 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureFifteen153248Fall2026.pdf"	  
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureFifteen153248Fall2026.pdf"
 - week: 9
   days:
     - date: 'Oct 20'
@@ -319,15 +319,15 @@
         - type: 'Lecture'
           id: '16 Notes'
           name: Notes--AutoRegressive Models
-          href: "./LectureSixteen153248Fall2026.pdf"
+          href: "../PDF/Lecture016Slides153248Fall2026.pdf"
         - type: 'Lecture'
           id: '16 Code'
           name: Notebook--AutoRegressive Models
-          href: "./CodeLectureSixteen153248Fall2026.ipynb"
+          href: "../Notebooks/CodeLectureSixteen153248Fall2026.ipynb"
         - type: 'Lecture'
           id: '16 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureSixteen153248Fall2026.pdf"
+          href: "../PDF/HandwrittenNotes/HandwrittenNotesLectureSixteen153248Fall2026.pdf"
     - date: 'Oct 22'
       items:
         - type: 'Lecture'

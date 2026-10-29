@@ -48,7 +48,7 @@ subtitle: 'UC Berkeley, Fall 2026'
 
 # Syllabus
 
-Basic information about the course can be found in the [syllabus](syllabus.pdf).
+Basic information about the course can be found in the [syllabus](../PDF/syllabus.pdf).
 
 # Schedule
 

@@ -86,7 +86,7 @@ These instructions have been tested under macOS.
    - Modify the table of contents in `_toc.yml` to reflect the structure you want.
    - Update `README.md` to remove all the instructions we provide (i.e., this text you are reading!).
    - Edit the other markdown files in the working directory and add new markdown or jupyter notebook files as desired.
-   - Update `index.md` to reflect the material you want displayed in the main page.
+   - Update `Markdown/index.md` to reflect the material you want displayed in the main page.
    - You can make use of various MyST features discussed in the [MyST Guide](https://mystmd.org/guide).
 
 
@@ -203,3 +203,27 @@ The website for which this content is the source materials is available at
 <https://{ course hostname}/fall-2024>.
 
 For instructors: please see [these instructions](https://github.com/berkeley-cdss/course-site-myst#instructions-for-course-staff) on how to use this repository.
+
+
+## Local file organization
+
+- `PDF/`
+- `LaTeX/`
+- `Notebooks/`
+- `CSV/`
+- `Excel/`
+- `Markdown/`
+- `Images/`
+- `Audio/`
+
+Project configuration, scripts, and this README stay at the repository root.
+Run MyST commands from the repository root. Run notebook kernels with `Notebooks/` as the working directory; data and audio paths are relative to that directory.
+
+The following datasets were already absent before reorganization; notebooks referring to them still require these files:
+
+- `ASPUS_October2025.csv`
+- `CAPOP_29Sept2026.csv`
+- `CPIAUCSL_01September2025.csv`
+- `ICSA_11Oct2026.csv`
+- `LakeHuron.csv`
+- `POPTHM_27Aug2026.csv`
